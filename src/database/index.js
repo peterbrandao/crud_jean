@@ -4,9 +4,13 @@ import databaseConfig from '../config/database';
 
 import User from '../app/models/User';
 
+import Produto from '../app/models/Produto';
+
+
 
 const models = [
-  User
+  User,
+  Produto
  
 ];
 
